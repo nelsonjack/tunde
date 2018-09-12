@@ -1,0 +1,62 @@
+aside {
+	width: 308px;
+	height: 658px;
+	background-color:darkgreen;
+}
+
+
+section {
+	height: 600px;
+	width: 1050px;
+	background-color: green;
+	position: absolute;
+	top: 0px;
+	left: 308px;
+
+}
+
+footer {
+	height: 58px;
+	width: 1050px;
+	background-color: darkgreen;
+	position: absolute;
+	top: 600px;
+	left:308px;
+
+}
+
+h1 {
+	font-size: 50px;
+	color: lightgreen;
+	margin: 20px;
+	padding-left: 350px;
+	font-family: sans-serif;
+}
+.container {
+	margin: 25px;
+	line-height: 35px;
+	font-size: 18px;
+	color: lightgreen;
+	font-family: serif;
+	padding-left: 150px;
+	}
+footer, ul, li, a {
+	list-style: none;
+	color: lightgreen;
+	text-align: center;
+	text-decoration: none;
+	display: inline;
+}
+a:hover {
+	color: white;
+}
+
+img {
+	margin-top: 97px;
+}
+body {
+	margin: 0;
+}
+hr {
+	border:solid 0.5px lightgreen;
+}
